@@ -1,6 +1,9 @@
 # FCM-method-for-brain-MRI-segmentation
 ## In this project we want simulate a article about segmentation of brain MRI image
 
+
+there are matlab code in : code file
+
 Basically our brain has consist of 3 major part :
 
                                                   1- Gray matter (GM)
@@ -36,3 +39,5 @@ there are some ways for segmentation :
 
 
 ## result 
+
+<img src="5.PNG" width="650" height="300" border="20">
